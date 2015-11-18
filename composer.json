@@ -5,8 +5,10 @@
   "license": "MIT",
   "keywords": [
     "image",
-    "image",
-    "laravel"
+    "optimizer",
+    "laravel",
+    "png",
+    "jpeg",
   ],
   "homepage": "https://github.com/emanuelzh/loptimizer",
   "authors": [
