@@ -15,6 +15,12 @@
       "email": "emanuelz@emanuelz.com.mx",
       "homepage": "http://emanuelz.com.mx",
       "role": "Developer"
+    },
+    {
+      "name": "Alexej Kloos",
+      "email": "alexejkloos@gmail.com",
+      "homepage": "http://alcodo.com",
+      "role": "Developer"
     }
   ],
   "require": {
