@@ -11,11 +11,13 @@ class ImageOptimizer
         $factory = new \ImageOptimizer\OptimizerFactory(array(
             'optipng_bin' => config('imageoptimizer.optipng_path'),
             'jpegoptim_bin' => config('imageoptimizer.jpegoptim_path'),
+            'pngquant_bin' => config('imageoptimizer.pngquant_path'),
             'ignore_errors' => config('imageoptimizer.ignore_errors')
         ));
 
-        $this->pngOptimzer = $factory->get('optipng');
+        $this->pngOptimzer = $factory->get('png');
         $this->jpgOptimzer = $factory->get('jpegoptim');
+
     }
 
     public function optimizeImage($filepath, $fileExtension = null)
