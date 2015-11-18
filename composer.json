@@ -1,5 +1,5 @@
 {
-  "name": "emanuelzh/laravel-image-optimizer",
+  "name": "emanuelzh/loptimizer",
   "description": "Image optimizer v2 for laravel",
   "type": "library",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "image",
     "laravel"
   ],
-  "homepage": "https://github.com/emanuelzh/laravel-image-optimizer",
+  "homepage": "https://github.com/emanuelzh/loptimizer",
   "authors": [
     {
       "name": "Emanuel Zámano H",
