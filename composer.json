@@ -1,6 +1,6 @@
 {
-  "name": "approached/laravel-image-optimizer",
-  "description": "Image optimizer for laravel",
+  "name": "emanuelzh/laravel-image-optimizer",
+  "description": "Image optimizer v2 for laravel",
   "type": "library",
   "license": "MIT",
   "keywords": [
@@ -8,12 +8,12 @@
     "image",
     "laravel"
   ],
-  "homepage": "https://github.com/approached/laravel-image-optimizer",
+  "homepage": "https://github.com/emanuelzh/laravel-image-optimizer",
   "authors": [
     {
-      "name": "Alexej Kloos",
-      "email": "alexejkloos@gmail.com",
-      "homepage": "http://alcodo.com",
+      "name": "Emanuel Zámano H",
+      "email": "emanuelz@emanuelz.com.mx",
+      "homepage": "http://emanuelz.com.mx",
       "role": "Developer"
     }
   ],
