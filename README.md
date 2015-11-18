@@ -1,4 +1,4 @@
-# Laravel Imageoptimizer
+# Image optimizer for Laravel 5x
 
 [![License](https://poser.pugx.org/emanuelzh/laravel-image-optimizer/license)](https://packagist.org/packages/approached/laravel-image-optimizer)
 [![Latest Stable Version](https://poser.pugx.org/emanuelzh/laravel-image-optimizer/v/stable)](https://packagist.org/packages/approached/laravel-image-optimizer)
